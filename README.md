@@ -17,6 +17,25 @@
 - 🔐 **Secure Authentication** - JWT-based user authentication system
 - 📱 **Responsive Design** - Beautiful UI that works on all devices
 
+## 📸 Screenshots
+
+### 🏠 Welcome Page
+![Welcome Page](./assets/welcome.png)
+*Professional landing page with curated design showcase*
+
+### 🎨 Browse Design Styles  
+![Home Page](./assets/home.png)
+*Explore 6+ interior design categories with beautiful layouts*
+
+### 🖼️ Design Gallery
+![Gallery View](./assets/search.png)
+*High-quality interior design images from Unsplash API*
+
+### 📁 Project Management
+![Projects Dashboard](./assets/project.png)
+*Create and organize custom mood boards and design collections*
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -107,24 +126,6 @@ interiora/
 └── README.md
 ```
 
-
-## 📸 Screenshots
-
-### 🏠 Welcome Page
-![Welcome Page](assets/welcome.png)
-*Professional landing page with curated design showcase*
-
-### 🎨 Browse Design Styles  
-![Home Page](assets/home.png)
-*Explore 6+ interior design categories with beautiful layouts*
-
-### 🖼️ Design Gallery
-![Gallery View](assets/search.png)
-*High-quality interior design images*
-
-### 📁 Project Management
-![Projects Dashboard](assets/project.png)
-*Create and organize custom mood boards and design collections*
 
 ## 📄 License
 
