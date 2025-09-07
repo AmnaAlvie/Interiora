@@ -1,0 +1,14 @@
+{
+  "likedSongs": [
+    {
+      "id": "464b",
+      "title": "Sapphire",
+      "artist": "Ed Sheeran",
+      "album": "Sapphire",
+      "cover": "https://api.deezer.com/album/766124301/image",
+      "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/5/0/895ad50a63101bf9d3cfef44ec2b8766.mp3?hdnea=exp=1751655863~acl=/api/1/1/8/9/5/0/895ad50a63101bf9d3cfef44ec2b8766.mp3*~data=user_id=0,application_id=42~hmac=c5e786187927a2ea2a974d67b95ec4f55a764c4364280942a05f16de6d744fba"
+    }
+  ],
+  "playlists": [],
+  "library": []
+}

@@ -1,0 +1,42 @@
+{
+  "name": "interiora",
+  "version": "1.0.0",
+  "description": "Interior Design Inspiration Platform - Discover, save, and organize design ideas across multiple aesthetics",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm start",
+    "client": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "interior-design",
+    "react",
+    "nodejs",
+    "mongodb",
+    "unsplash",
+    "design-inspiration",
+    "home-decor"
+  ],
+  "author": {
+   "name": "Amna Alvie",
+   "email": "your.email@example.com",
+   "url": "https://github.com/AmnaAlvie"
+},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmnaAlvie/interiora.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmnaAlvie/interiora/issues"
+  },
+  "homepage": "https://github.com/AmnaAlvie/interiora#readme",
+  "dependencies": {
+    "react-router-dom": "^7.6.3"
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
