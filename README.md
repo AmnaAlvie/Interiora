@@ -20,19 +20,19 @@
 ## 📸 Screenshots
 
 ### 🏠 Welcome Page
-![Welcome Page](./frontend/assets/welcome.png)
+![Welcome Page](./frontend/src/assets/welcome.png)
 *Professional landing page with curated design showcase*
 
 ### 🎨 Browse Design Styles  
-![Home Page](./frontend/assets/home.png)
+![Home Page](./frontend/src/assets/home.png)
 *Explore 6+ interior design categories with beautiful layouts*
 
 ### 🖼️ Design Gallery
-![Gallery View](./frontend/assets/search.png)
+![Gallery View](./frontend/src/assets/search.png)
 *High-quality interior design images from Unsplash API*
 
 ### 📁 Project Management
-![Projects Dashboard](./frontend/assets/project.png)
+![Projects Dashboard](./frontend/src/assets/project.png)
 *Create and organize custom mood boards and design collections*
 
 
