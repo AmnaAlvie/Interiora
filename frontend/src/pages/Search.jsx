@@ -120,13 +120,7 @@ export default function Search() {
     <div className="px-8 py-6 bg-white min-h-screen">
       <h2 className="text-3xl font-bold mb-6 text-[#A9513C] font-['Playfair_Display']">Search Interior Designs</h2>
       
-      {/* Temporary debug button
-      <button 
-        onClick={testAuth}
-        className="mb-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
-      >
-        Test Auth
-      </button> */}
+    
       
       <form onSubmit={handleSearch} className="mb-8">
         <div className="relative max-w-2xl">
@@ -161,7 +155,7 @@ export default function Search() {
               <button
                 key={suggestion}
                 onClick={() => handleSuggestionClick(suggestion)}
-                className="px-4 py-2 bg-gray-100 hover:bg-[#A9513C]/10 text-gray-700 hover:text-[#A9513C] rounded-full text-sm transition-colors duration-200"
+                className="px-4 py-2 bg-gray-100 hover:bg-[#A9513C]/10 text-white hover:text-[#A9513C] rounded-full text-sm transition-colors duration-200"
               >
                 {suggestion}
               </button>
